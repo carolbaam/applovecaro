@@ -1,0 +1,276 @@
+body{
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    width: 100%;;
+    height: 100px;
+    outline: black solid 1px;
+    color:#373b46;
+    
+  
+    
+    
+   
+}
+.float-left-one,
+.float-left-tow,
+.float-left-three
+
+{
+position: relative;
+float: left;
+margin:40px;
+margin-bottom: 0px;
+left:20px;
+
+}
+
+.float-right{
+    margin:0px;
+}
+.float-right img{
+    position: relative;
+    float: right;
+    margin:0px;
+    width: 70px;
+    height: 70px;
+    right: 50px;
+    top:15px;
+}
+
+/*primera seccion*/
+
+.section-one{
+    float: left;
+    width:1130px;
+    height:490px;
+    outline: black solid 1px;
+    background-image:url("../assets/bg-home.jpg");
+    color:white;
+    font-weight: 4px;
+   
+}
+.section-one>h3{
+    margin:0px;
+    position: relative;
+    top:40px;
+    width:400px;
+    left:400px;
+}
+
+
+.we,
+.handd,
+.view{
+    margin:0px;
+    position: relative;
+    left:200px;
+}
+.we {
+    position: relative;
+    top:100px;
+    font-size: 50px;
+}
+
+.handd{
+
+    top:130px;
+    left:300px;
+}
+
+.view{
+    top:220px;
+    left:500px;
+    background: #00cd76;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    
+}
+
+ 
+/* SEGUNDA SECCION*/
+
+.section-tow{
+    width:1130px;
+    height:800px;
+    outline: black solid 1px;
+    float: left;
+    margin:0px;
+    background-color:  #f97c74;
+    color: white;
+  
+
+}
+
+.users-float-one,
+.concept-float,
+.design-float {
+    position: relative;
+    float: left;
+    top:200px;
+    left:100px;
+    margin: 40px;
+   
+ 
+}
+.services,
+.services-text,
+.users-float-one,
+.concept-float,
+.design-float
+{
+    position: relative;
+ 
+}
+
+.services{
+    top:50px;
+    left:500px;
+    font-size: 30px;
+}
+.services-text{
+    top:100px;
+    left:300px;
+    font-size: 15px;
+}
+
+.section-tow>div{
+    top:300px;
+    left:200px;
+    margin: 50px;
+    bottom: 100px;
+}
+
+.users-float-one>p{
+    position: relative;
+    font-size: 12px;
+    left:50px;
+    margin:0;
+}
+.concept-float>p{
+    position: relative;
+    font-size: 12px;
+    left:50px;
+}
+.design-float>p{
+    position: relative;
+    font-size: 12px;
+    left:60px;
+}
+
+
+    .image-services-1 img, 
+    .image-services-2 img,
+    .image-services-3 img{
+        height: 200px;
+        width:200px;
+        
+    }
+
+    .users-float-one>h5{
+        position: relative;
+        
+        left:20px;
+        
+    }
+    .concept-float>h5{
+        position: relative;
+        
+        left:38px;
+    }
+    .design-float>h5{
+        position: relative;
+        
+        left:30px;
+    }
+    
+
+   
+
+/*  SECCION TRES*/
+ .article-three{
+  
+    width: 1130px;
+    height: 2500px;
+    outline: black solid 1px;
+    float: left;
+   
+
+}
+.work{
+    position: relative;
+    font-size: 30px;
+    height: 200px;
+    left:500px;
+}
+
+.text-three{
+    font-size: 15px;
+    position: relative;
+    left:200px;
+    bottom: 150px;
+}
+.image-work img{
+
+    position: relative;
+    height: 800px;
+    width: 900px;
+    left:125px;
+    bottom: 130px;
+
+}
+
+
+.work1 img,
+.work2 img,
+.work3 img,
+.work4 img,
+.work5 img,
+.work6 img,
+.work7 img,
+.work8 img,
+.work9 img,
+.work10 img,
+.work11 img,
+.work12 img {
+
+    position: relative;
+    float: left;
+     width: 300px;
+     height: 250px;
+     margin: 25px;
+     bottom: 50px;
+     margin-bottom: 60px;
+     left: 30px;
+
+}
+
+.work4 img,
+.work7 img, 
+.work10 img
+{
+    clear: left;
+}
+
+
+/*CUARTA SECCION*/
+footer{
+    width:1130px;
+    float: left;
+    background-color: #373b46;
+    
+
+}
+
+footer h5{
+    position: relative;
+    left: 500px;
+    font-size: 15px;
+    color: white;
+}
